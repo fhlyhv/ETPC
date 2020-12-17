@@ -1,4 +1,4 @@
-The MATLAB code package implements the stochastic gradient algorithm to learn the ensemble of trees for spatial extremes as described in the following paper:
+The MATLAB  implements the stochastic gradient algorithm to learn the ensemble of trees for spatial extremes as described in the following paper:
 
 H. Yu, W. I. T. Uy, and J. Dauwels, ''Modeling Spatial Extremes via Ensemble-of-Trees of Pairwise Copulas,'' in IEEE Trans. Signal Process.
 
